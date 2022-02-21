@@ -8,8 +8,8 @@ const MainPage = () => {
       <h3 className="text-dark text-center">
         MANAGEMENT CONSULTING COMPANY BASED IN BANGALORE
       </h3>
-      <div className="row m-3 ">
-        <div className="col row align-items-center text-center py-2 px-5 shadow ">
+      <div className="row gap-3">
+        <div className="col  align-items-center text-center py-5 px-5 shadow rounded ">
           <img src={Company} alt="" />
           <h3>Company</h3>
           <p>
@@ -21,7 +21,7 @@ const MainPage = () => {
           <button className="btn btn-secondary rounded-pill">Read More</button>
         </div>
         {/* 2nd */}
-        <div className="col row align-items-center text-center py-2 px-5 shadow">
+        <div className="col  align-items-center text-center py-5 px-5 shadow rounded">
           <img src={Company} alt="requirement" />
           <h3>Requirements</h3>
           <p>
@@ -33,7 +33,7 @@ const MainPage = () => {
           <button className="btn btn-secondary rounded-pill">Read More</button>
         </div>
         {/* 3rd */}
-        <div className="col row align-items-center text-center py-2 px-5 shadow">
+        <div className="col  align-items-center text-center py-5 px-5 shadow rounded">
           <img src={Executive} alt="" />
           <h3>Executives</h3>
           <p>
@@ -45,7 +45,7 @@ const MainPage = () => {
           <button className="btn btn-secondary rounded-pill">Read More</button>
         </div>
       </div>
-      <h4 className="text-dark my-4 py-2">
+      <h4 className="text-dark my-4 py-5">
         ❝Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
         velit optio porro architecto, consectetur dolore praesentium? Magni vel
         fugiat deserunt voluptatem nisi, eveniet officiis at voluptate earum,
