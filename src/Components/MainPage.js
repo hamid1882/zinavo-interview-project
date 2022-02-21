@@ -1,6 +1,5 @@
 import React from "react";
 import Company from "../Images/cominc.png";
-import Requirement from "../Images/reqstaf.png";
 import Executive from "../Images/executive.png";
 
 const MainPage = () => {
