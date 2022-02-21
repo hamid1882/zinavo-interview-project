@@ -15,7 +15,7 @@
 
 .CarouselImage {
   width: 30vmax;
-  height: auto;
+  height: 100%;
   object-fit: fill;
 }
 
