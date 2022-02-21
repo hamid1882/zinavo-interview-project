@@ -2,6 +2,10 @@
   font-family: "Roboto", sans-serif;
 }
 
+body {
+  height: 100%;
+}
+
 .nav-btn {
   padding: 10px;
   border-radius: 20px;
