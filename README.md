@@ -1,4 +1,4 @@
-Deploy Link : https://zinavo-interview-project.herokuapp.com/
+Deploy Link : https://zinavo-interview-project.vercel.app/
 
 # Getting Started with Create React App
 
