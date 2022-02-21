@@ -6,7 +6,7 @@ import sliderImage2 from "../Images/sliderImage2.png";
 const Slider = () => {
   return (
     <Carousel
-      className="carouselStyles mb-5 container-fluid margin-auto h-100 "
+      className="carouselStyles mb-5 container-fluid margin-auto"
       navButtonsAlwaysVisible="true"
     >
       <img src={sliderImage} className="CarouselImage" alt="slider" />
